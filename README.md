@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubhashree Bhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-## 💫 About Me:
-🔭 I’m currently working on Task-Management website<br>👯 I’m looking to contribute my front-end and back-end development skills to innovative web projects, startups, or open-source tools.<br>🌱 I’m currently learning full-stack web development with the MERN stack<br>
+
+## 💫** About Me:**
+-  🔭 I’m currently working on Task-Management website<br>
+-  👯 I’m looking to contribute my front-end and back-end development skills to innovative web projects, startups, or open-source tools.<br>
+-  🌱 I’m currently learning full-stack web development with the MERN stack<br>
+
 
 
 ## 🌐 Socials:
@@ -14,6 +18,6 @@
 ## 🧠 LeetCode Stats :
 ![](https://leetcard.jacoblin.cool/Shubhashree_Bhar_07?border=0&radius=20)
 
-## 🧠 GeeksforGeeks Stats
+## 🧠 GeeksforGeeks Stats :
 
-[![GFG stats](https://gfgstatscard.vercel.app/tulibahr?theme=dark)](https://auth.geeksforgeeks.org/user/tuli/practice/)
+[![](https://geeks-for-geeks-stats-api.vercel.app/?userName=tulibhar)](https://github.com/napiyo/geeksForGeeksStatsAPI)
