@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubhashree Bhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-## 💫** About Me:**
--  🔭 I’m currently working on Task-Management website<br>
+## 💫 About Me:
+-  🔭 I’m currently working on Machine Learning <br>
 -  👯 I’m looking to contribute my front-end and back-end development skills to innovative web projects, startups, or open-source tools.<br>
 -  🌱 I’m currently learning full-stack web development with the MERN stack<br>
 
