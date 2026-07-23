@@ -42,12 +42,13 @@ A full-stack task manager with JWT authentication, task CRUD, priority levels, d
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhashreeBhar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhashreeBhar&theme=radical" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhashreeBhar&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhashreeBhar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhashreeBhar&theme=radical" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhashreeBhar&theme=radical" alt="Top languages by commits" />
 </p>
 
 ## 🧠 LeetCode Stats :
