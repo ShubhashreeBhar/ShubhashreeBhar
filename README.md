@@ -42,7 +42,7 @@ A full-stack task manager with JWT authentication, task CRUD, priority levels, d
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhashreeBhar&theme=radical" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/ShubhashreeBhar/ShubhashreeBhar/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhashreeBhar&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
