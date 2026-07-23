@@ -10,11 +10,11 @@
 </p>
 
 ## 💫 About Me:
-- 🔭 I’m currently building projects across web development and machine learning
-- 🧠 I work on graph deep learning and NLP, from phishing detection to fake news classification
-- 🌱 I’m currently levelling up my full-stack skills with the MERN stack
-- 👯 I’m looking to contribute my front-end and back-end skills to innovative web projects, startups, or open-source tools
-- 💬 Ask me about React, Node, Python, or anything ML
+- I build across web development and machine learning, and I like the projects that sit where the two meet.
+- My machine learning work leans into graph deep learning and NLP, from catching phishing transactions to telling real news from fake.
+- Right now I am deepening my MERN stack skills and shipping projects end to end.
+- I want to point my front end and back end work at real products, whether that is a startup, a web app, or something open source.
+- Ask me about React, Node, Python, or anything machine learning.
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://shubhashree-bhar.vercel.app/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh_ree_07)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhashree-bhar-26a80a294)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhashreebhar@gmail.com)
@@ -47,8 +47,8 @@ A full-stack task manager with JWT authentication, task CRUD, priority levels, d
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhashreeBhar&theme=radical" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhashreeBhar&theme=radical" alt="Top languages by commits" />
+  <img width="49%" src="https://raw.githubusercontent.com/ShubhashreeBhar/ShubhashreeBhar/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top languages by repo" />
+  <img width="49%" src="https://raw.githubusercontent.com/ShubhashreeBhar/ShubhashreeBhar/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commits" />
 </p>
 
 ## 🧠 LeetCode Stats :
