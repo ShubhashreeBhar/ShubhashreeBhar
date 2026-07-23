@@ -56,7 +56,9 @@ A full-stack task manager with JWT authentication, task CRUD, priority levels, d
 
 ## 🧠 GeeksforGeeks Stats :
 
-[![](https://geeks-for-geeks-stats-api.vercel.app/?userName=tulibhar)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/tulibhar/"><img src="https://gfgstatscard.vercel.app/tulibhar" alt="GeeksforGeeks stats" /></a>
+</p>
 
 ---
 
